@@ -1,5 +1,6 @@
 package VeterinariaService;
 
+//Maxi Centeno
 public class Perro extends Animal {
 
     public Perro(String nombre, String alimento, byte edad, String raza) {
